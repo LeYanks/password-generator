@@ -1,5 +1,6 @@
 import random 
 
+# Déclaration variables
 letter = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 number = "0123456789"
 symbol = "§£$%@#{}[]()!"
